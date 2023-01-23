@@ -42,17 +42,15 @@ li {
 }
 .main .destinos {
   display: flex;
-  width: 100%;
   font-size: xx-large;
   font-style: italic;
   color: darkblue;
 }
 .main .destinos img {
   margin-left: 10%;
-  width: 80%;
+  width: 100%;
 }
 .main .destinos h4 {
-  width: 85%;
   background-color: rgb(61, 58, 58);
   margin-left: 10%;
   color: rgb(68, 12, 12);
@@ -60,7 +58,7 @@ li {
 }
 .main .destinos__div {
   margin-top: 2%;
-  width: 95%;
+  width: 100%;
 }
 
 .paquetes {
